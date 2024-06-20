@@ -1,0 +1,8 @@
+#ifndef VERSION_CONTROL_H
+#define VERSION_CONTROL_H
+
+#define VERSION_CONTROL_HEADER  "LP2"
+#define VERSION_CONTROL_FW      "001"
+#define VERSION_CONTROL_HW      "003"
+
+#endif /* VERSION_CONTROL_H */
